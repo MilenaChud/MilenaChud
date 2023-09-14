@@ -25,7 +25,9 @@ https://career.habr.com/milenaalex
 
 [Autotests](https://github.com/MilenaChud/AutoTests)
 
-[Тестирование интернет-магазина](https://github.com/MilenaChud/qa-engineer-project-84)
+[Online store testing](https://github.com/MilenaChud/qa-engineer-project-84)
+
+[Tests_mkagkh](https://github.com/MilenaChud/tests_mkagkh)
 
 
 ### Socials
